@@ -1,8 +1,7 @@
 # Site settings
 title: VMTyler.com
 email: me@vmtyler.com
-description: > # this means to ignore newlines until "baseurl:"
-That's right. Another tech blog.
+description: That's right. Another tech blog.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://vmtyler.github.io" # the base hostname & protocol for your site
 twitter_username: vmtyler
