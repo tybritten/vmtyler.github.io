@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: End &amp; Beginning of another Virtual Year
+author:
+  display_name: VMTyler
+  login: vmtyler
+  email: me@vmtyler.com
+  url: http://vmtyler.com
+author_login: vmtyler
+author_email: me@vmtyler.com
+author_url: http://vmtyler.com
+wordpress_id: 53
+wordpress_url: "//vmtyler.com/?p=53"
+date: '2011-09-05 13:21:08 -0400'
+date_gmt: '2011-09-05 17:21:08 -0400'
+categories:
+- Virtualization
+tags: []
+---
+<p>Another year, another VMworld in the books. For those who live in the virtual world, VMworld marks beginning/end of the 'virtual year'. It's been a long run-up for the various vendor teams; building and updating products, readying announcements, and tweaking demos and presentations all in preparations for VMworld. For end-users, they are bombarded with new data, best practices, versions, and announcements from VMware and all the other vendors. Now they must sift through all the information and update their strategies going forward.  The next few months are an exciting time to help customers on that journey. Before long, it's time to begin preparation for VMworld 2012.</p>
+<p>I'm not going to summarize every session or every announcement, as there will be plenty who have or will. I'd like to just give you a few thoughts that stuck with me from Vegas:</p>
+<p><strong>EMC</strong></p>
+<p>Now, I might be a bit biased, but I am amazed how well EMC is firing on all cylinders with regards to VMware. I remember attending VMworld 2007 while working for an integrator and being shocked at EMC's presence, or lack thereof. Fast forward a few years and the amount of integrations and just overall focus of EMC on VMware integration is incredible. Obviously the credit goes to the team at the top, but I really think their decision to invest in the vSpecialist organization has had a huge impact.</p>
+<p><strong>vSpecialists</strong></p>
+<p>I've now been on the team just a little bit over a year. I can very easily say that this is the best team I've ever been apart of. It's incredible to be around so many amazingly talented people who also don't take themselves too seriously and have lots of fun. I've been looking forward to VMworld, not just for the content but also to see people on the team that I don't get to see on a regular basis. It is a testament to the management team that they hire such great people as well as foster this kind of culture. It's a culture that get's such great results because it encourages everyone to pitch in and help and at the same time to get outside their comfort zone. All I can say is it feels like home.</p>
+<p><strong>VMware Community</strong></p>
+<p>On the subject of culture- hat's off to VMware for cultivating such a strong sense of community. Customers, Partners, and Manufacturers all coming together to learn and connect. It was great to see various competitors visiting each others booths and sessions to catch up and expand their knowledge. In the end, the entire ecosystem wins. If you don't already, find and participate in your local <a href="http://www.myvmug.org">VMUG</a> (VMware Users Group).</p>
+<p><strong>Solutions Exchange</strong></p>
+<p>As usual, lots of great booths- all the 'big guys' down to the small start-ups. It was the second straight year of the EMC Hands on Lab booth which was extremely popular again. Hats off the many, many people involved that make it work. One thing in particular I wanted to point out was the appearance of the VMAX VSA, complements of Dave Robertson (@daverdfw). Check out <a href="http://storageboy.com/2011/08/29/vmax-vsa-its-alive-2/">his blog</a> for more details.</p>
+<p><strong>Sessions</strong></p>
+<p>As usual, the sessions ranged from high-level to nitty-gritty details. I can't wait for the media to be posted for the sessions that I missed that I really wanted to see. One of my favorite sessions I did see was on Storage DRS (SDRS). I was aware of the basics of how it would operate before the session, but came away completely impressed with the logic working in the background to decide what to move where. Especially the ability to predict the effect of moving VMDKs on the response time and IOPs of a particular datastore. Very impressive.</p>
+<p><strong>Party</strong>!</p>
+<p>The Killers, well, killed it. A great choice by VMware, and their opening act Recycled Percussion put on a great show as well. I will say one thing- if you are 20 feet from the stage and want to break out your phone and snap a pic or two to tweet or whatever, fine. You don't need to video the entire concert on your iPhone or bring a digital SLR on a monopod to get 156,534 pictures. Try and actually, i dunno, <em>enjoy the concert</em>?</p>
+<p><strong>What's Next?</strong></p>
+<p>On the flight home, I placed an order with NewEgg to update my home lab, and the parts should arrive tomorrow. While there's been a billion posts on home lab hardware &amp; experiences, I figure "What the hell. One more." I plan on using the lab to update my VCP to 5, training for the VCAP, and expanding my vFabric knowledge.  Stay tuned.</p>

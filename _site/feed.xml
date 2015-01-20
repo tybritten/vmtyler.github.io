@@ -1,40 +1,451 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 19 Jan 2015 16:23:42 -0500</pubDate>
-    <lastBuildDate>Mon, 19 Jan 2015 16:23:42 -0500</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <title></title>
+    <description>That&#39;s right. Another tech blog.</description>
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 20 Jan 2015 09:18:46 -0500</pubDate>
+    <lastBuildDate>Tue, 20 Jan 2015 09:18:46 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
-
+        <title>Email Management- Inbox: Meh</title>
+        <description>&lt;p&gt;A number of different posts and podcasts have been floating around on the topic of email management recently and I thought it would be a good time to explain how I handle it.&lt;/p&gt;
+&lt;h5&gt;Inbox: Meh - A Philosophy&lt;/h5&gt;
+&lt;p&gt;The first main premise of my system is to treat your email with the distain it deserves; most of what clutters your inbox is useless. Similar to your actual postal mail, there are bits and pieces that show up that are important, but most of it is junk. The biggest difference that makes email so much worse is that it takes almost no effort to send email, and you can send it to tens of thousands of people with one click.&lt;/p&gt;
+&lt;p&gt;The second main premise is for 99.999% of the population email management isn&#39;t your actual job; your company is generally paying you for something much more useful/valuable. So please put away your mailbox OCD, stop caring how many messages are in your inbox, and get rid of most of your folder management schemes. If you like sorting mail so much, I&#39;m sure the mailroom or post office has openings.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h5&gt;Delete Early, Delete Often&lt;/h5&gt;
+&lt;p&gt;Considering most of your email is useless, delete it. This should be your only real email triage, especially on mobile devices- delete, delete, delete. The only exception is unsubscribe; if there is an option to reduce your mail volume by unsubscribing to whatever useless vendor newsletter you&#39;re getting weekly, do it.&lt;br /&gt;
+Sadly, most of the mail volume comes from corporate distribution lists and criminal abuse of the CC: line for which unsubscribe can&#39;t save you.&lt;br /&gt;
+With each email ask yourself these two questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Does it contain information that I may want later, but isn&#39;t important enough to keep elsewhere?&lt;/li&gt;
+&lt;li&gt;Is the email directed to me that requires I do something (that I actually plan on doing)?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If the answer is no to both, delete it.&lt;/p&gt;
+&lt;h5&gt;Embrace the Chaos&lt;/h5&gt;
+&lt;p&gt;Email is what is considered unstructured data similar to your document folders on your file server or computer. It&#39;s natural to try to bring order to it with complex folder structures, but resist. Think about how Google has changed how people browse the internet- less bookmarks (with their own organizing folders), more searching. How many times have you searched for something and clicked on a purple link?&lt;/p&gt;
+&lt;p&gt;Advanced search capabilities are available in email as well (Gmail, Outlook). Leave any email you&#39;re keeping in your inbox and just leverage your search function.&lt;/p&gt;
+&lt;h5&gt;Exceptions to the rule&lt;/h5&gt;
+&lt;p&gt;Every hard and fast rule need some exceptions, and this no folder rule is no different. I&#39;ve created two folders: Feedback and Bulk. The first one is used to keep emails that contain any useful feedback (praise or suggestions) that are particularly useful for annual reviews (They&#39;re also usually hard to search for anyway as they&#39;re generally at the end of some other email thread). The second folder is a pre-trash folder that has a matching mailbox rule- &quot;any email from these addresses are sent directly to this folder&quot; that I add addresses to on occasion. 99% of the mail in there is from internal distribution lists. I delete the contents every few weeks. I may upgrade this rule soon to dump the bulk folder and send the messages directly to the trash.&lt;/p&gt;
+&lt;h5&gt;What About the Important Emails?&lt;/h5&gt;
+&lt;p&gt;Remember those emails that were directed to me that required I do something? These are the only ones we really care about. The others (I call them reference emails) we just need to have so we can search them later if need be.&lt;br /&gt;
+How you handle your important emails should be managed by whatever larger task/work management system you use. On mobile (since I&#39;m stuck with Exchange and ActiveSync), I use the email flag to bring it to my attention when I get back to my desk. Once there, I happen to like Trello to manage my work in progress, but use whatever system works for you. Heck, you can just use the email followup flags and reminders if you want.&lt;/p&gt;
+&lt;h5&gt;What You&#39;ll Begin to Notice&lt;/h5&gt;
+&lt;p&gt;I came up with this system somewhat organically when I had basically given up on my previous inbox-zero email sorting system and just let it all go. As I realized I wasn&#39;t really missing anything by not obsessively managing my inbox, I added the few extra things noted above and it&#39;s been smooth sailing for a few years since.&lt;br /&gt;
+When I think back, I still can&#39;t believe there was a point in time where I had my phone (BlackBerry at the time) set to buzz at every new email.&lt;br /&gt;
+My Email now works for me, I don&#39;t work for it.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 19 Jan 2015 11:17:49 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/01/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/01/19/welcome-to-jekyll.html</guid>
+        <pubDate>Wed, 31 Dec 2014 10:31:33 -0500</pubDate>
+        <link>http://127.0.0.1:4000/email-management-inbox-meh/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/email-management-inbox-meh/</guid>
         
         
-        <category>jekyll</category>
+        <category>uncategorized</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Lock-in: Real or Imaginary</title>
+        <description>&lt;p&gt;I&#39;ve been talking to customers about tech for a number of years and many bring up the term &quot;lock-in.&quot; They ask &quot;will this product lock us in?&quot; or &quot;We&#39;re choosing to go with solution X because we&#39;re not locked in.&quot; I&#39;ve had a few thoughts on this issue that I&#39;ve shared with customers, but I was spurred into putting this post together by a discussion around &lt;a href=&quot;http://www.twitter.com/nigelpoulton&quot;&gt;@nigelpoulton&#39;s&lt;/a&gt; post comparing &lt;a href=&quot;http://blog.nigelpoulton.com/vsan-is-no-better-than-a-hw-array/&quot;&gt;VSAN and HW arrays&lt;/a&gt; where he mentions lock-in.&lt;/p&gt;
+&lt;p&gt;I posited that this long-feared gremlin of IT &lt;em&gt;doesn&#39;t exist, and may never have.&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;What Really is Lock-in?&lt;/h3&gt;
+&lt;p&gt;When I ask customers that are concerned about lock-in to explain what they mean, they always respond with something along the lines of &quot;I don&#39;t want to be stuck with this later.&quot;&lt;br /&gt;
+Ok, now we&#39;re getting somewhere. Usually I can get them to boil it down to a situation where changing isn&#39;t feasible due to high cost- either time or money.&lt;br /&gt;
+That&#39;s pretty reasonable, but here are the main problems with how IT people generally think about lock-in:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It&#39;s expressed as a binary state; you&#39;re either locked-in or you&#39;re not&lt;/li&gt;
+&lt;li&gt;The actual costs of being locked-in are never adequately quantified&lt;/li&gt;
+&lt;li&gt;There&#39;s plenty of time and money spent avoiding lock-in but it&#39;s generally not quantified&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--more--&gt;
+&lt;h3&gt;Friction is the Real Measure&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;Friction&lt;/em&gt; is defined as the resistance to motion; I think this term much better fits the discussion versus the lock-in boogeyman. What we are doing is quantifying (up front, hopefully) what it would cost us in money and time (which is also money) to change something. The higher that cost, the higher the friction. The higher the friction, the higher the benefits of moving need to be to justify. &lt;strong&gt;Every&lt;/strong&gt; IT decision creates some level of friction; it&#39;s a spectrum.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;No level of friction is beyond the ability to overcome.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Let&#39;s look at what&#39;s widely considered the most &#39;locked-in&#39; company-to-technology example we have today- Netflix&#39;s platform on AWS. Could Netflix move off of AWS? Absolutely. Would it cost them more than any potential benefits today? Absolutely. As soon as the benefits of re-engineering their platform for another cloud besides AWS outweigh the costs of doing it, they will.&lt;/p&gt;
+&lt;p&gt;This goes right to the heart of Nigel&#39;s comments around VMware VSAN &quot;locking you in to the hypervisor.&quot; How much friction is really being created? Definitely some, but is it insurmountable enough to call it lock-in? Hardly.&lt;/p&gt;
+&lt;h3&gt;Open Source has Friction too&lt;/h3&gt;
+&lt;p&gt;I also hear people constantly choosing open source projects to avoid the dreaded lock-in. Of course they generally introduce less financial friction, but usually significant time (which costs money) friction to change as well. Choose CloudStack but now want to move to OpenStack? How much work will &lt;em&gt;that&lt;/em&gt; be?&lt;/p&gt;
+&lt;h3&gt;Thinking in Friction and Measuring it Constantly&lt;/h3&gt;
+&lt;p&gt;Smart IT folks (infrastructure, developers, procurement, and even execs) should be thinking about most decisions this way.&lt;br /&gt;
+Whether its writing to a specific API, picking a storage platform, or signing a contract they should be asking themselves:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;How much friction (and what would it cost to overcome) am I introducing to our environment, and is the value we&#39;re gaining worth it?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;There are plenty of examples of companies (like Netflix) making decisions that would be considered locking themselves into a particular technology that are actually really good decisions. EMC moved to SalesForce.com a few years ago and (like most customers) have heavily customized it. I&#39;m sure some would consider EMC locked in to Salesforce, but I bet if we ask EMC Sales leadership, they would make the same decision all over again.&lt;/p&gt;
+&lt;h3&gt;So does Lock-in exist?&lt;/h3&gt;
+&lt;p&gt;I guess I would back off saying it doesn&#39;t exist at all, but would change the definition of lock-in to &lt;em&gt;a situation where the friction to move outweighs the benefits of moving.&lt;/em&gt; If you think in these terms more, you&#39;ll stop seeing lock-in hiding in every dark corner.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 24 Oct 2014 14:34:05 -0400</pubDate>
+        <link>http://127.0.0.1:4000/lock-in-real-or-imaginary/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/lock-in-real-or-imaginary/</guid>
+        
+        
+        <category>uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Updating OpenStack using Mirantis Fuel</title>
+        <description>&lt;p&gt;In my lab I’ve been using the Mirantis OpenStack distribution (most recently 5.0.1) since it has a deployment tool called Fuel which makes it really easy to deploy and configure. There’s even a virtualbox script to setup an entire environment on your laptop- &lt;a title=&quot;&quot; href=&quot;http://samuraiincloud.com/2014/08/13/building-openstack-icehouse-in-virtualbox-in-60-minutes-using-mirantis-fuel-2/&quot; target=&quot;_blank&quot;&gt;Check out Masa’s post on it here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Mirantis OpenStack 5.1 was released yesterday with some cool new features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The Fuel Master Node can be upgraded from 5.0.x&lt;/li&gt;
+&lt;li&gt;Fuel 5.1 can update existing 5.0.x Mirantis OpenStack environments to 5.0.2 (Experimental)&lt;/li&gt;
+&lt;li&gt;Fuel is now protected by access control&lt;/li&gt;
+&lt;li&gt;Mirantis OpenStack now deploys the ML2 Open vSwitch plug-in for Neutron&lt;/li&gt;
+&lt;li&gt;Experimental features must be explicitly enabled for Mirantis OpenStack&lt;/li&gt;
+&lt;li&gt;The Fuel Master Node can now be backed up and restored&lt;/li&gt;
+&lt;li&gt;VMware NSX is now supported as a network option&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class=&quot;&quot;&gt;You’ll see on the list one new experimental feature. That features is to use Fuel to update your OpenStack environment (in this case 5.0.1 to 5.0.2). That’s pretty cool. Let’s give it a try.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h3 class=&quot;&quot;&gt;Upgrade the Fuel Master&lt;/h3&gt;
+&lt;p class=&quot;&quot;&gt;The first step is upgrading the fuel master. Go to the Mirantis site and download the upgrade package and get it on your fuel master. (I did a wget right from it, but whatever works). Make sure you have enough disk space on your Fuel Master (mine has 60GB) and put the upgrade package in /var/tmp. Use lrzuntar to uncompress the package. Make sure you have at least 2GB of RAM or it will run out of memory before it finishes.&lt;br /&gt;
+Next, run the upgrade script:&lt;br /&gt;
+&lt;img class=&quot;full aligncenter&quot; title=&quot;&quot; src=&quot;/images/2014/09/1411562931_thumb.png&quot; alt=&quot;&quot; align=&quot;middle&quot; /&gt;&lt;br /&gt;
+It will take a while to run. Hopefully at the end you’ll see &quot;INFO 10769 (upgrade) *** UPGRADE DONE SUCCESSFULLY&quot;&lt;/p&gt;
+&lt;p&gt;Once this is done, if we access the Fuel GUI at http://yourfuelipaddress:8000, you’ll see something you’ve never seen before- a login screen. This is part of the new access control system in 5.1. The default login is admin/admin.&lt;br /&gt;
+&lt;img class=&quot;full aligncenter&quot; title=&quot;&quot; src=&quot;/images/2014/09/1411562926_thumb.png&quot; alt=&quot;&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;h1 class=&quot;&quot;&gt;Enable Experimental Features&lt;/h1&gt;
+&lt;p class=&quot;&quot;&gt;Mirantis has focused their efforts on their distribution on making things production-grade. You’ll see native support for controller clustering, various hardening efforts, etc. Included in that approach is hiding new features that are deemed experimental. So we’ll have to enable support for experimental features (like this upgrade we want to try).&lt;br /&gt;
+back to the fuel master CLI. We’ll need to edit a YAML file and restart some processes.&lt;/p&gt;
+&lt;p&gt;First step is to edit the YAML file at /etc/fuel/version.yaml and add a line for - experimental&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;full aligncenter&quot; title=&quot;&quot; src=&quot;/images/2014/09/1411562911_thumb.png&quot; alt=&quot;&quot; align=&quot;middle&quot; /&gt;&lt;br /&gt;
+after we save this file, we’ll need to restart a few processes:&lt;br /&gt;
+&lt;img class=&quot;full aligncenter&quot; title=&quot;&quot; src=&quot;/images/2014/09/1411562906_thumb.png&quot; alt=&quot;&quot; align=&quot;middle&quot; /&gt;&lt;br /&gt;
+At this point we’re ready to go.&lt;/p&gt;
+&lt;h3 class=&quot;&quot;&gt;Updating OpenStack&lt;/h3&gt;
+&lt;p&gt;Now when I log into the Fuel GUI, select my existing environment, and select the actions tab, I see a new option:&lt;br /&gt;
+&lt;img class=&quot;full aligncenter&quot; title=&quot;&quot; src=&quot;/images/2014/09/1411562900_thumb.png&quot; alt=&quot;&quot; align=&quot;middle&quot; /&gt;When I select Update, I get the usual ‘Are you sure’ dialog, which I accepted. Now I’m taken back to the previous screen, with a progress bar:&lt;br /&gt;
+&lt;img class=&quot;full aligncenter&quot; title=&quot;&quot; src=&quot;/images/2014/09/1411562895_thumb.png&quot; alt=&quot;&quot; align=&quot;middle&quot; /&gt;&lt;br /&gt;
+After a few minutes (my environment is only 3 nodes), the update is reported as complete:&lt;br /&gt;
+&lt;img class=&quot;full aligncenter&quot; title=&quot;&quot; src=&quot;/images/2014/09/1411563113_thumb.png&quot; alt=&quot;&quot; align=&quot;middle&quot; /&gt;&lt;br /&gt;
+Now my Icehouse environment has been updated. Hopefully before long, they’ll support between family upgrades as well (Icehouse to Juno).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Sep 2014 08:58:56 -0400</pubDate>
+        <link>http://127.0.0.1:4000/updating-openstack-using-mirantis-fuel/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/updating-openstack-using-mirantis-fuel/</guid>
+        
+        
+        <category>uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>Why Your Company Sucks at Social Media</title>
+        <description>&lt;p&gt;Not sure if your company is using social media appropriately? Here are some quick signs that they are a social media disaster:&lt;/p&gt;
+&lt;p id=&quot;NteyZnH&quot;&gt;&lt;img class=&quot;aligncenter wp-image-501 size-full&quot; src=&quot;/images/2014/09/img_541c70afa2020-full.png&quot; alt=&quot;&quot; width=&quot;490&quot; height=&quot;390&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sending internal emails to distribution lists with a list of suggested tweets/posts to cut and paste.&lt;/li&gt;
+&lt;li&gt;Sending internal emails to distribution lists with a link to a post/tweet with instructions that everyone should like/retweet it.&lt;/li&gt;
+&lt;li&gt;Measuring social media success solely by metrics like impressions, retweets, likes.&lt;/li&gt;
+&lt;li&gt;Encourage people to sign up for social media..just to follow/friend corporate accounts and like/retweet everything&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you work for a tech company that’s existed for more than 5 years, they probably do all four of the above.&lt;/p&gt;
+&lt;!--more--&gt;
+&lt;h3&gt; &lt;strong&gt;What’s the problem?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;I think it speaks to a broader issue of focusing on the measurement of something so much that it becomes meaningless as an indicator anymore.&lt;/p&gt;
+&lt;p&gt;Think about stock prices. It used to be (and should be) an indicator of the overall health of a company. Company management should care what the stock price is as it is indicative of what the investors/market think about the job they’re doing.  Fair enough.&lt;/p&gt;
+&lt;p id=&quot;CHRXIpO&quot;&gt;&lt;img class=&quot;aligncenter wp-image-505 size-medium&quot; src=&quot;/images/2014/09/img_541c7100c7319-full-300x199.png&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;199&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The problem now is that management/investors see stock prices as literally the only important measure- so we see things like stock buybacks. They take money that can be used for things like investing in R&amp;amp;D, hiring, acquisitions, and other long-term growth activities and use it to buy back stock simply to drive the stock price up. It can be even worse if management is bonused based on earnings per share (EPS); buybacks increase EPS by lowering the number of outstanding shares, not by increasing earnings (which was the intent).&lt;br /&gt;
+It’s the canary in the coal mine equivalent of just giving the bird an O2 system; it defeats the purpose of the original measure.&lt;br /&gt;
+It’s even causing a lot of controversy in the American education system; the focus on standardized testing leading to school districts “teaching to the test.&quot;&lt;/p&gt;
+&lt;p&gt;It’s a disease that has infected the business world, and more specifically the tech world for some time; it’s mostly due to a grossly misinterpreted concept by quality pioneer &lt;a title=&quot;&quot; href=&quot;http://en.wikipedia.org/wiki/W._Edwards_Deming&quot; target=&quot;_blank&quot;&gt;Edwards Deming&lt;/a&gt; that has turned into a generally accepted management adage:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;You can&#39;t manage what you don&#39;t measure.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Implying that unless you measure something you don&#39;t know if it is getting better or worse.  It has become a religion of business to seek ways of measuring everything- KPIs, benchmarking, and so on.  It’s especially taken hold in the more analytically minded tech community because it fits so well with the mindset that tech can fix anything.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What’s wrong with this?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img class=&quot;alignleft wp-image-508 size-full&quot; src=&quot;/images/2014/09/img_541c726994a50.png&quot; alt=&quot;&quot; width=&quot;126&quot; height=&quot;200&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Deming never actually said that. He preached quite the opposite; that an important management concept is knowing that some things that are important and need to be managed are unmeasurable.&lt;br /&gt;
+In fact, in his &lt;a title=&quot;&quot; href=&quot;https://www.deming.org/theman/theories/deadlydiseases&quot; target=&quot;_blank&quot;&gt;Seven Deadly Diseases of Management&lt;/a&gt;, number five is pretty clear:&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;Management by use only of visible figures, with little or no consideration of figures that are unknown or unknowable.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;We’ve taken this disease to the extreme by not only trying to obsessively measure everything, but also making “moving the needle” the sole focus, leading to gaming the numbers by “teaching to the test.”&lt;br /&gt;
+And if you actually look at the rest of the list you’ll see some other deadly diseases that have become common in business today.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;So what does this have to do with social media?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;This obsessive need to measure and manage by measurement has reduced the value of social media to companies to things like “impressions&quot;,”retweets”, “views”, etc. That’s why you see companies employing strategies like I mentioned at the beginning; they’re great for getting good numbers in your measurables but are useless in practice and can actually harm your company’s image.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Social Media- The Cafeteria.&lt;/strong&gt;&lt;/h3&gt;
+&lt;p id=&quot;GhMGilz&quot;&gt;&lt;img class=&quot;alignright wp-image-513&quot; src=&quot;/images/2014/09/img_541c7b2bcb46c-full.png&quot; alt=&quot;&quot; width=&quot;500&quot; height=&quot;375&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;To understand why this is bad, think of things like Twitter as a crowded cafeteria. You’re walking around the tables, each with little groups having conversations. The idea is that you find someone you recognize or a conversation that’s interesting and you sit down. You’ll listen for a while before you start to speak up, and before long, you’re part of the conversation, adding to it and getting value from it.&lt;/p&gt;
+&lt;p&gt;Now picture a group of people walking in the cafeteria and walking to their tables and all repeating the same few sentences over and over again. You and your group would quickly ignore them or even actively block them from sitting down.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt;This is what it looks like when employees share pre-created tweets or constantly retweet their corporate accounts.&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;At another table in the cafeteria, a group of people sit down and one of the new people doesn’t even wait and starts talking. While the original group is annoyed by this, the rest of the new group keep encouraging the speaker and try to convince the original group members how great this new speakers is.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt;This is what it looks like when high-profile corporate users encourage employees to retweet or respond to their tweets.&lt;br /&gt;
+&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;In the corner there’s one last table that’s a group of people that just walked in and all sat together and are just saying the same things over and over to each other. No one else even notices; it’s a complete echo chamber.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;i&gt;This is what it looks like when employees are encourage to sign up for social media and only follow other employees and corporate accounts and respond/retweet those.&lt;/i&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h3&gt; &lt;strong&gt;How do you (and your company) stop sucking at social media?&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Social media is merely new technology applied to old concepts- relationships, social interactions, communities, and communication. People have always come together and built communities around common interests. The same behaviors that are revered and reviled in person are met with similar reactions online. The beauty of things like Twitter, Facebook, forums, and other sites is it removes the physical proximity requirement that used to be limited the ability of communities to form.&lt;/p&gt;
+&lt;p&gt;So while you&#39;re interacting online or developing your company&#39;s social media strategy,&lt;em&gt; keep the cafeteria in mind.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Sep 2014 09:11:31 -0400</pubDate>
+        <link>http://127.0.0.1:4000/why-your-company-sucks-at-social-media/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/why-your-company-sucks-at-social-media/</guid>
+        
+        
+        <category>uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>AppleScript Markdown-Ready Screenshots</title>
+        <description>&lt;p&gt;So I’ve been putting together a number of documents that include screenshots and I’ve never had a really good way of &amp;nbsp;speeding up the process- take screen shot, insert file into document, etc.&lt;/p&gt;
+&lt;p&gt;Especially since I started using MacDown as a Markdown editor, I needed to provide the path to the file as well. So here’s my solution- Apple Automator.&lt;br /&gt;
+Open Apple Automator and create a new service. Search for Run AppleScript and Drag and Drop it into the right so it added to the service.&lt;br /&gt;
+&lt;img class=&quot;full aligncenter&quot; title=&quot;&quot; src=&quot;/images/2014/09/1410393472_thumb.png&quot; alt=&quot;&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Paste in the following AppeScript. You can modify it to suit your needs. I have it set it use “-s” to screen shot an area I select. I also have it set to save the files into the screenshot folder inside my dropbox. At the end you’ll see it takes the complete file path and adds the markdown image syntax ![]() to it as well and copies it to the clipboard.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-applescript&quot;&gt;on run {input, parameters}
+	
+	set homeFolderPath to POSIX path of (path to home folder as string)
+	set screenshotStoragePath to homeFolderPath &amp;amp; &quot;Dropbox/Screenshots/&quot;
+	set timeStamp to do shell script &quot;date &#39;+%Y-%m-%d at %I.%M.%S %p&#39;&quot;
+	set screenshotFilePath to screenshotStoragePath &amp;amp; &quot;Screen Shot &quot; &amp;amp; timeStamp &amp;amp; &quot;.png&quot;
+	do shell script &quot;screencapture &quot; &amp;amp; &quot;-s&quot; &amp;amp; &quot; &quot; &amp;amp; quoted form of screenshotFilePath
+	set markdownpath to &quot;![](&quot; &amp;amp; screenshotFilePath &amp;amp; &quot;)&quot;
+	set the clipboard to markdownpath
+		return input
+end run
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Once you save the created service, go to the system preference pane, select keyboard and under shortcuts, find your service and assign a hotkey to it.&lt;/p&gt;
+&lt;p&gt;Now any time I press that hotkey combo, It takes a screenshot, saves it to my dropbox, and copies the location in markdown to my clipboard.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 10 Sep 2014 20:02:57 -0400</pubDate>
+        <link>http://127.0.0.1:4000/applescript-markdown-ready-screenshots/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/applescript-markdown-ready-screenshots/</guid>
+        
+        
+        <category>uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>New Home Computer - Hackintosh Style</title>
+        <description>&lt;p&gt;Since my role change, I’ve been spending (a bit) less time on the road. From working in presales for about nine years, I’m used to working from a laptop, with a single external monitor when working remote. I wanted to switch back to dual monitors, but the MacBook Air I was using only supports a single external monitor. The first thing I tried was a USB3.0 DisplayLink adapter. I was actually pretty impressed with the  performance out of it, but it had a number of small issues that was tough to get past with an everyday setup.&lt;br /&gt;
+I decided to go for a desktop system and quickly eliminated the Mac Pro (overkill and pricey) and the iMac (I have monitors already). I started looking at Mac Minis, but to get them configured the way I wanted either was too costly or required a decent bit of disassembly.&lt;br /&gt;
+I considered running windows, but I can’t stand Windows 8.1’s interface and while Win7 is fine, I don’t really like where Microsoft is going with the platform. Also I wanted something Linux/Unix.&lt;br /&gt;
+I considered a Linux install like Mint or Ubuntu, but there are too many software packages missing Linux support (Google Drive, Syncplicity mainly).&lt;br /&gt;
+I started looking into a build-your-own Mac aka a Hackintosh. I was concerned with supportability as I didn’t want to have constant issues with it. I started doing research to see if I could build my own Mac with a cost point and experience I would be happy with. The best source of info I found was from &lt;a title=&quot;&quot; href=&quot;http://www.tonymacx86.com/&quot; target=&quot;_blank&quot;&gt;www.tonymacx86.com&lt;/a&gt;. There’s a hardware buyers guide, utility downloads, and a forum full of info.&lt;/p&gt;
+&lt;p&gt;After reviewing all the available details and price shopping, I decided this was the way to go. I could get a stable desktop platform with good specs and a reasonable price.&lt;/p&gt;
+&lt;h3&gt;The Hardware&lt;/h3&gt;
+&lt;p&gt;The main focus was on support- It had to be on the buyer’s guide and had to have out of the box (or close to it) support. The second focus was on environmentals- size/noise/heat. I want this to be a small desktop system so it couldn’t be like having a jet engine next to me.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Motherboard- Gigabyte Z87N-WIFI&lt;/b&gt;&lt;br /&gt;
+&lt;img class=&quot;alignleft&quot; title=&quot;&quot; src=&quot;/images/2014/09/1409691778_thumb.jpeg&quot; alt=&quot;&quot; align=&quot;left&quot; /&gt;I wanted a socket 1150 Haswell board that had enough onboard graphics ports and build in wireless. The 87 series boards are quickly being replaced by 97 series but I wanted to make this an easy deployment with something Apple already supports. The only issue with this model is the Mini-PCIe WiFi/Bluetooth Combo board only works for Bluetooth.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Processor - Intel Core i5-4690K&lt;/b&gt;&lt;br /&gt;
+&lt;img class=&quot;alignleft&quot; title=&quot;&quot; src=&quot;/images/2014/09/1409692375_thumb.jpeg&quot; alt=&quot;&quot; align=&quot;left&quot; /&gt;the i5 was a good mix of price/performance that included integrated graphics that could drive multiple monitors. The K model allows for overclocking if I need to later. The i7 seemed like overkill for what I use and would require too much cooling. I stuck with the stock CPU cooler that came with the i5.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Power Supply - Corsair RM 550&lt;/b&gt;&lt;br /&gt;
+&lt;img class=&quot;alignleft&quot; title=&quot;&quot; src=&quot;/images/2014/09/1409692639_thumb.jpeg&quot; alt=&quot;&quot; align=&quot;left&quot; /&gt;While I don’t think the PSU would make that much of a difference from a support perspective, I chose the Corsair because it was on the list. I moved up to the RM series to get modular power cables (only hook up what I need) and a quieter PSU (The fans don’t run on the RM unless needed).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Case - Cooler Master 110&lt;/b&gt;&lt;br /&gt;
+&lt;img class=&quot;alignleft&quot; title=&quot;&quot; src=&quot;/images/2014/09/1409692878_thumb.jpeg&quot; alt=&quot;&quot; align=&quot;left&quot; /&gt;I looked at cases for a while. I wanted something as small as possible while still allowing for good airflow and room to add a seperate 2-slot graphics card if I wanted one later. The CM 110 checked all the boxes and the reviews were good.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Rest&lt;/b&gt;&lt;br /&gt;
+Memory- Crucial Ballistix 16GB DDR3&lt;br /&gt;
+Storage - Samsung 840 EVO 250GB SSD&lt;br /&gt;
+Wireless- AzureWave AW-CE123H (This card is Mini PCIe and works for both WiFi 2.5/5GHz and BT 4.0)&lt;/p&gt;
+&lt;h3&gt;Physical Assembly&lt;/h3&gt;
+&lt;p&gt;This part was pretty straightforward PC-assembly stuff. Just take your time, read the directions, and have enough room to spread all your parts out.&lt;/p&gt;
+&lt;h3&gt;Installation&lt;/h3&gt;
+&lt;p&gt;There are two main pieces of software you need to install OS X on non-Apple hardware. Well, three. You need a copy of OS X (Mavericks in this case), and Unibeast and Multibeast. There are other options as well, but I chose to use the tonymacx86 tools.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Why not Yosemite you might be asking? 1) I’m looking for a stable daily-driver. Unsupported hardware coupled with Beta operating system doesn’t exactly scream stable.&lt;br /&gt;
+&lt;/i&gt;&lt;br /&gt;
+&lt;a title=&quot;&quot; href=&quot;http://www.tonymacx86.com/374-unibeast-install-os-x-mavericks-any-supported-intel-based-pc.html&quot; target=&quot;_blank&quot;&gt;To install, I followed the installation guide on tonymacx86.com.&lt;/a&gt;&lt;br /&gt;
+The steps are basically this:&lt;br /&gt;
+1. Make bootable USB installer on an existing Mac using Unibeast&lt;br /&gt;
+2. Make sure your BIOS/UEFI settings are right (this is important! I found a few settings I had wrong that held me up)&lt;br /&gt;
+3. Boot from the USB stick and run the installer. If it hangs on boot you can choose different boot options. I had to use -x for ‘safe mode’ for the installer to come up&lt;br /&gt;
+4. Install OS X&lt;br /&gt;
+5. Boot off the USB stick but pick your new install from the bootloader&lt;br /&gt;
+6. Use Multibeast to install the bootloader on your new SSD as well as add any needed kexts (kernel extenstions aka drivers). There are plenty of guides on this part. Save your settings in case you need to re-apply them after an upgrade/update.&lt;br /&gt;
+7. I had to use kextwizard to install two kexts for my wifi/bluetooth combo card- one for each chipset. There was a combo one that looked like it worked, but the bluetooth wouldn’t connect.&lt;br /&gt;
+8. If you’re going to use iMessage, you also need to read &lt;a title=&quot;&quot; href=&quot;http://www.tonymacx86.com/general-help/110471-how-fix-imessage.html&quot; target=&quot;_blank&quot;&gt;this&lt;/a&gt;. Basically there are some values that iMessage reads from a Mac’s NVRAM that you’ll need to simulate. It’s pretty straightforward.&lt;/p&gt;
+&lt;h3&gt;Post Install/Setup.&lt;/h3&gt;
+&lt;p&gt;I decided not to use migration assistant to bring any settings over, and do it manually. I also wanted to replace some software I use regularly with some newer options.&lt;br /&gt;
+My first move was using &lt;a title=&quot;&quot; href=&quot;https://github.com/virtualswede/osx-bootstrap&quot; target=&quot;_blank&quot;&gt;VirtualSwede’s OSX-Bootstrap&lt;/a&gt;. It installs homebrew and brew-cask and leverages these to install a ton of great software. Included in that are some ones that were new to me like Spectacle and flux.&lt;/p&gt;
+&lt;p&gt;I also installed HWMonitor to check to make sure my temps and fans were all right in my new setup.&lt;/p&gt;
+&lt;p&gt;So far it’s been up and running a few days with no real issues. I’m using both my 24” 1080p ASUS monitors as well as my Apple Bluetooth Trackpad with no issues.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Sep 2014 17:56:00 -0400</pubDate>
+        <link>http://127.0.0.1:4000/new-home-computer-hackintosh-style-2/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/new-home-computer-hackintosh-style-2/</guid>
+        
+        
+        <category>uncategorized</category>
+        
+      </item>
+    
+      <item>
+        <title>New Day, New Role, New Challenges</title>
+        <description>&lt;h4&gt;Starting off with the TL;DR:&lt;/h4&gt;
+&lt;p&gt;Starting Monday, I have a new role within EMC. I’m moving to the cloud team within Global Solutions Marketing working for &lt;a href=&quot;http://twitter.com/bgracely&quot;&gt;@bgracely&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/thesanzone&quot;&gt;@theSANzone.&lt;/a&gt; I’ll be focusing mainly on OpenStack and Cloud Foundry.&lt;/p&gt;
+&lt;p&gt;I’ll skip the well-worn proverbs about growth and change and just share a few things.&lt;/p&gt;
+&lt;h4&gt;Looking Back&lt;/h4&gt;
+&lt;p&gt;As I look back on my career so far I’ve had jobs I’ve loved, jobs that I didn’t like, and everything in between. I can say though that I learned something along the way at each stop and I don’t think I could be here without traveling the same road. Roles as a customer, consultant, integrator, service provider, and vendor systems engineer has each given me a slightly different view on the IT world.&lt;/p&gt;
+&lt;p&gt;I joined EMC almost four years ago, not knowing what to expect. It turned out to be one of the single best decisions in my career. Getting to work as a vSpecialist among such amazing talent both on the team and in the larger company and community is an experience I won’t ever forget. I think that&#39;s the biggest thing that EMC introduced me to- the broader, global IT community and the amazing things that happen when we can work together.&lt;/p&gt;
+&lt;h4&gt;Looking Forward&lt;/h4&gt;
+&lt;p&gt;I wasn’t specifically looking for a change, but when I learned about this opportunity something just clicked and it made perfect sense that this was to be the next phase of my career. I’m excited about the new role and for the ability to help EMC grow and change in this new and exciting space.  I plan on sharing more here, more often, and more technical posts.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 27 Jun 2014 11:57:21 -0400</pubDate>
+        <link>http://127.0.0.1:4000/new-day-new-role/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/new-day-new-role/</guid>
+        
+        
+        <category>uncategorized</category>
+        
+        <category>cloud</category>
+        
+      </item>
+    
+      <item>
+        <title>APIs- The Wrong Concern</title>
+        <description>&lt;p&gt;I’ve noticed a ton of talk lately about the importance of APIs, and specifically API compatibility. While having properly designed and versioned APIs are critical to anyone looking to increase their automation and orchestration, I think API compatibility is a wildly overblown concern, specifically AWS API compatibility.&lt;/p&gt;
+&lt;h4&gt;Why AWS API?&lt;/h4&gt;
+&lt;p&gt;For obvious reasons, the AWS set of APIs (EC2 &amp;amp; S3 mainly) are the set that people are looking for compatibility with because they are the most widely adopted due to the large AWS market share. If your product can deploy using those APIs it can deploy to AWS as well as other compatible clouds (OpenStack, CloudStack, Eucalyptus for example). Conversely, if your cloud platform can support the AWS API set, apps developed to be deployed on AWS will also run on your platform.&lt;/p&gt;
+&lt;h4&gt;So Where’s the controversy in all this?&lt;/h4&gt;
+&lt;p&gt;Let me give you a little metaphor:&lt;img class=&quot;alignright size-medium wp-image-361&quot; alt=&quot;de-dresden-restaurantrow&quot; src=&quot;/images/2014/01/de-dresden-restaurantrow-284x300.jpg&quot; width=&quot;226&quot; height=&quot;238&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;In an imaginary little town, there are a bunch of sit-down restaurants. These restaurants generally require reservations, and when you eat there, the chefs come out and meet you and put together a meal based on your likes and dislikes. People generally go to the same restaurant because the chef already knows them and what they like.&lt;/p&gt;
+&lt;p&gt;A new restaurant opens up in town- the very first fast food restaurant. Customers can order from a very large menu and can also customize their order (extra pickles!). The only problem is the people that work the counter only speak French. People love this exciting new concept for a restaurant- they get exactly what they want, when they want without any reservations or meetings with the chef! Soon people all over town are learning French to be able to order at this new restaurant.&lt;/p&gt;
+&lt;p&gt;The other res&lt;img class=&quot;alignleft size-medium wp-image-363&quot; style=&quot;margin: 2px;&quot; alt=&quot;13256789-krakow-poland-april-2012-customers-are-buying-fast-food-products-inside-a-kfc-kentucky-fried-chicken&quot; src=&quot;/images/2014/01/13256789-krakow-poland-april-2012-customers-are-buying-fast-food-products-inside-a-kfc-kentucky-fried-chicken-300x204.jpg&quot; width=&quot;218&quot; height=&quot;148&quot; /&gt;taurants see their business fall pretty dramatically. They hear their customers talking about learning French and ordering at this new place. So what do they do? The owners decide to send all their chefs to French class, but even then, their businesses don’t pick back up. One smart owner decides to revamp his restaurant, modeling it after this new fast food place- but he can’t afford to hire anyone who speaks French. His new counter employees only speak Spanish. To get around that, he publishes a Spanish/French/English menu guide and includes it with the menus. His new restaurant is a hit as well.&lt;/p&gt;
+&lt;h4&gt;Ok, what does that have to do with APIs?&lt;/h4&gt;
+&lt;p&gt;Well hopefully you can see the point of the story. The reason this new restaurant was so popular had to do with the completely different consumption paradigm it offered, much like AWS vs traditional IT. The fact that the way you ordered it (API) was a specific language was really a minor detail that can easily be overcome. If the concepts between two cloud services are similar enough, translating the API is relatively minor operation for either the user or the provider. Look how many products and services quickly added  support for one or a bunch of the AWS APIs. For example, pretty much every object storage product or service supports the S3 API.&lt;/p&gt;
+&lt;h4&gt;So What?&lt;/h4&gt;
+&lt;p&gt;The main point to me is the actual API doesn’t matter much at all. As long as 1) some sort of robust API exists and 2) the capabilities and concepts the customer needs or are used to using are available, the actual API syntax is an afterthought. More time needs to be spend helping customers change how they consume IT services and change how IT delivers them than worrying about APIs.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Jan 2014 09:14:48 -0500</pubDate>
+        <link>http://127.0.0.1:4000/apis-the-wrong-concern/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/apis-the-wrong-concern/</guid>
+        
+        
+        <category>cloud</category>
+        
+      </item>
+    
+      <item>
+        <title>OpenStack and EMC (and ViPR!) - My Take</title>
+        <description>&lt;h4&gt;&lt;strong&gt;UPDATED 9/26/2014 with latest supported driver information&lt;/strong&gt;&lt;/h4&gt;
+&lt;h4&gt;A Little Background&lt;/h4&gt;
+&lt;p&gt;I put up a blog post on the EMC Communities site yesterday&lt;a href=&quot;https://community.emc.com/community/connect/everything_vmware/blog/2014/01/27/emc-and-openstack&quot;&gt; outlining EMC&#39;s OpenStack support &lt;em&gt;&lt;strong&gt;here.&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;A Quick Recap&lt;/h4&gt;
+&lt;p&gt;More details are available on the above link, but here&#39;s the table:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Array&lt;/th&gt;
+      &lt;th&gt;Supported Release&lt;/th&gt;
+      &lt;th&gt;Protocol&lt;/th&gt;
+      &lt;th&gt;Volume Functions&lt;/th&gt;
+      &lt;th&gt;Location&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;VMAX&lt;/td&gt;
+      &lt;td&gt;Grizzly, Havana, IceHouse&lt;/td&gt;
+      &lt;td&gt;iSCSI, FC&lt;/td&gt;
+      &lt;td&gt;All required functions, except ‘Create Vol from snapshot’, ‘Extend vol’&lt;/td&gt;
+      &lt;td&gt;Distribution&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;VNX&lt;/td&gt;
+      &lt;td&gt;Grizzly, Havana, IceHouse&lt;/td&gt;
+      &lt;td&gt;iSCSI, FC&lt;/td&gt;
+      &lt;td&gt;All required functions&lt;/td&gt;
+      &lt;td&gt;Distribution&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;XtremIO&lt;/td&gt;
+      &lt;td&gt;Havana, IceHouse&lt;/td&gt;
+      &lt;td&gt;iSCSI&lt;/td&gt;
+      &lt;td&gt;All required functions&lt;/td&gt;
+      &lt;td&gt;GitHub&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ScaleIO&lt;/td&gt;
+      &lt;td&gt;Havana, IceHouse&lt;/td&gt;
+      &lt;td&gt;SDS/SDC&lt;/td&gt;
+      &lt;td&gt;All required functions&lt;/td&gt;
+      &lt;td&gt;EMC&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ilsion&lt;/td&gt;
+      &lt;td&gt;Havana, IceHouse&lt;/td&gt;
+      &lt;td&gt;NFS(Cinder)&lt;/td&gt;
+      &lt;td&gt;All required functions&lt;/td&gt;
+      &lt;td&gt;EMC&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ViPR&lt;/td&gt;
+      &lt;td&gt;Havana, IceHouse&lt;/td&gt;
+      &lt;td&gt;iSCSI, FC&lt;/td&gt;
+      &lt;td&gt;All required functions&lt;/td&gt;
+      &lt;td&gt;GitHub&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;h4&gt;My Take&lt;/h4&gt;
+&lt;p&gt;We announced yesterday the availability of a non-commercial edition of the ViPR controller. That&#39;s right, not a time-limited trial, but a fully functioning version. I&#39;ve waited in anticipation for this version of ViPR to be released, because I think it&#39;s particularly relevant to the OpenStack community as it follows a release model that customers in this community are familiar with to (RedHat, Ubuntu).&lt;/p&gt;
+&lt;p&gt;That said, a common question I hear from OpenStack users is:&lt;/p&gt;
+&lt;address&gt;If ViPR automates storage provisioning leveraging plug-ins, isn&#39;t that what Cinder does? why do I need ViPR?&lt;/address&gt;
+&lt;p&gt;At the very basic level, they both have an API that you can ask for storage and through plug-ins, that storage will be provisioned from physical arrays. What separates out ViPR is the ability to create virtual arrays and virtual pools of storage made up of multiple different arrays (even from different vendors) but provision them from a single cinder plugin. I can also leverage those same pools for physical servers and VMware environments.  Once the Manila project makes it into incubation and then core, ViPR will be able to provide that single layer of orchestration across heterogeneous clouds, arrays, and protocols.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/2014/01/ViPR_OpenStack.png&quot;&gt;&lt;img class=&quot; wp-image-350 alignleft&quot; src=&quot;/images/2014/01/ViPR_OpenStack-300x159.png&quot; alt=&quot;ViPR_OpenStack&quot; width=&quot;381&quot; height=&quot;201&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;Why buy ViPR then? Well if you’re looking for EMC Support or you wish to add Object (S3, Swift, Atmos) data services, you’ll need the paid version of ViPR.&lt;/p&gt;
+&lt;p&gt;If you&#39;re interested in getting your hands dirty with ViPR, &lt;a href=&quot;http://www.emc.com/getvipr&quot;&gt;&lt;strong&gt;here&lt;/strong&gt; is the link to download.&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 27 Jan 2014 14:33:46 -0500</pubDate>
+        <link>http://127.0.0.1:4000/openstack-and-emc-and-vipr-my-take/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/openstack-and-emc-and-vipr-my-take/</guid>
+        
+        
+        <category>virtualization</category>
+        
+        <category>cloud</category>
+        
+      </item>
+    
+      <item>
+        <title>APTs, iPhone Fingerprints Readers, and Complex Passwords: Why you should fire your IT Security Team</title>
+        <description>&lt;p&gt;Whoa, kind of an aggressive title, I know. It&#39;s a bit of hyperbole, but many IT security teams are failing their organizations badly. How?&lt;/p&gt;
+&lt;p&gt;&lt;img class=&quot;alignleft&quot; style=&quot;margin: 8px; border: 0px;&quot; title=&quot;6870003490_40f4e9bcb6_z.jpg&quot; alt=&quot;6870003490 40f4e9bcb6 z&quot; src=&quot;/images/2013/10/6870003490_40f4e9bcb6_z.jpg&quot; width=&quot;252&quot; height=&quot;168&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;h4&gt;The Problem&lt;/h4&gt;
+&lt;p&gt;The way the most of the IT industry thinks about security is idiotic, and has been shaped by vendors to help sell stuff. It’s always painted as some infosec cold war- The white hat IT security folks at your organization versus some Bond villian-eque hacker in some bunker somewhere. It sells to the business’ fear of the unknown and the IT team’s superhero complex.&lt;/p&gt;
+&lt;h4&gt;Who are the real Threats?&lt;/h4&gt;
+&lt;p&gt;In actuality, IT security is actually no different than any other risk vs. cost tradeoff. It follows the law of diminishing returns- and the curve bends quickly and then is a slow taper. Not counting insiders (who are actually the #1 liability to every organization), there are really three classes of threats-&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sophisticated and well funded(nation state or equivalent)&lt;/li&gt;
+&lt;li&gt;Sophisticated and not well funded (experienced/thorough individual)&lt;/li&gt;
+&lt;li&gt;Unsophisticated ( novice/‘script kiddie’)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img class=&quot;aligncenter&quot; style=&quot;margin-top: 6px; margin-bottom: 6px; border: 0px;&quot; title=&quot;sec_risk_vs_cost.png&quot; alt=&quot;Sec risk vs cost&quot; src=&quot;/images/2013/10/sec_risk_vs_cost.png&quot; width=&quot;360&quot; height=&quot;254&quot; border=&quot;0&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Stopping the first group requires a huge investment and a relentless culture to keep out, and even then they may still get in. Your best defense against that group (call them APTs if you must) is hopefully you don’t have anything they actually want.&lt;/p&gt;
+&lt;p&gt;Stopping the latter groups just requires following good basic (actually valid and usually free!) security measures like password lengths (passphrases), keeping up with patches, keeping unneeded ports/services disabled, training users on good security practices especially social engineering. Anything you do on top of that for most organizations is 1) not worth the investment for the minuscule risk reduction 2) is even more costly as it impacts actual productivity. It’s the security equivalent of talking IT staffs into wearing clean room suits every time their go in their datacenter to reduce the risk of device failure due to static discharge.&lt;/p&gt;
+&lt;p&gt;That’s not even counting the stuff like complex password policies and expirations that at best don’t improve your security and at worst make it weaker (&lt;a href=&quot;http://xkcd.com/936/&quot; target=&quot;_blank&quot;&gt;Relevant XKCD&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Never mind that most of these measures don’t deal with malicious insiders, nor can they. As the NSA can probably tell you, once you give someone access there is little you can do to stop them from accessing it. Your defense there is other employees, hiring, culture; not software or hardware.&lt;/p&gt;
+&lt;h4&gt;Enter the iPhone&lt;/h4&gt;
+&lt;p&gt;&lt;img class=&quot;alignright&quot; style=&quot;margin: 4px; border: 0px;&quot; alt=&quot;&quot; src=&quot;/images/2013/10/26fddp-fingerprint-blog480.jpg&quot; width=&quot;288&quot; height=&quot;191&quot; border=&quot;0&quot; /&gt;&lt;br /&gt;
+The recent technology news surrounding the iPhone 5S&#39;s fingerprint reader is a great example. Once it was announced, the predicable responses came; talk of how it could be defeated by hackers with special equipment, or how it &quot;wasn&#39;t secure enough&quot; and should require a passcode as well as the fingerprint.&lt;/p&gt;
+&lt;p&gt;As Chris Hoff (&lt;a href=&quot;https://twitter.com/beaker&quot;&gt;@Beaker&lt;/a&gt;) so eloquently pointed out, it&#39;s not a security feature, its a convenience feature:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It provides better security than no lock at all (many users don&#39;t use passcode locks)&lt;/li&gt;
+&lt;li&gt;What&#39;s being protected by it on the device (photos, texts, emails) aren&#39;t generally sensitive enough for someone to go through all the trouble of bypassing the scanner&lt;/li&gt;
+&lt;li&gt;If someone is willing to go through that level of effort, they would find other ways to access your data anyway. (&lt;a href=&quot;http://xkcd.com/538/&quot;&gt;Revelvant XKCD again&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Conclusion&lt;/h4&gt;
+&lt;p&gt;The inability of the average IT department to think in different protections for different levels of risks, and to do the risk vs cost (both money and lost productivity) analysis leaves businesses frustrated (&lt;a href=&quot;https://twitter.com/mikefoley&quot;&gt;@MikeFoley&lt;/a&gt;&#39;s favorite &quot;IT Security puts the &#39;no&#39; in innovation&quot; quip) and at greater risk.  With any security change that brings *any* additional burden to the users or cost to the organization, you have to clarify what the risk reduction is and if it&#39;s worth it.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Oct 2013 09:51:32 -0400</pubDate>
+        <link>http://127.0.0.1:4000/why-you-should-fire-your-it-security-team/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/why-you-should-fire-your-it-security-team/</guid>
+        
+        
+        <category>uncategorized</category>
         
       </item>
     
