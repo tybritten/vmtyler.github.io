@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-comments: false
+published: true
+comments: true
 title: 'The Myth of Cloud Economics'
 categories:
 - Cloud
