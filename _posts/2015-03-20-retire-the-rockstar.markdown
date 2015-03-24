@@ -43,13 +43,3 @@ I hear this very often in the tech community, both inside and outside of my curr
 It's ok to complement and single out a person for their abilities and achievements; it's encouraged. What we need to do is stop using these over-the-top terms to do it.
  
 We need to encourage and inspire others to great things. This is the real path to innovation and success.
-
-### Edit 3-24-15:
-
-Scott Lowe has posted a counterpoint to this post on his blog [here.](http://blog.scottlowe.org/2015/03/23/retire-the-rockstar-a-counterpoint/) I highly encourage you to check out his take on this topic.
-
-After reading Scott's post (and some great twitter feedback), I thought it would be a good time to expand and clarify my post.
-
-My issue isn't really in the terms themselves or what their direct connotations are ("This Guy/Gal is really good!"). To me, the issue is more the indirect connotation; I think people associate elite professionals like Rockstars and pro athletes as a status that's unobtainable to them. For good reason too, the percentage of the population that are *actual* rockstars or pro athletes is incredibly small. That's the part that I see as deflating and defeatist to other tech folks.
-
-I think a much better analogy I hit on this morning was martial arts. You can recognize the people that have mastered the highest levels while providing a path to those who have not yet reached that level. If you're a 4th degree blackbelt in taekwondo (I think I have this right, my familiarity with taekwondo is all google-based), you've reached the level of an elite performer. At the same time, a yellow or orange belt holder knows the path they need to follow to reach that level. They may not posses the drive or ability to reach it, but the path is clear.
