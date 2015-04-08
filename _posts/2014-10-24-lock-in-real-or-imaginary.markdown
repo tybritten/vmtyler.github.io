@@ -2,6 +2,7 @@
 layout: post
 status: publish
 published: true
+comments: true
 title: 'Lock-in: Real or Imaginary'
 author:
   display_name: VMTyler
