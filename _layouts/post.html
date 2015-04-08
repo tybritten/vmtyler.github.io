@@ -19,7 +19,9 @@ layout: default
 		<div class="post">
 			{{ content }}
 			<br>
-			{% if page.comments %}
+			{% if page.comments == null %}
+			{% include disqus.html %}
+			{% elsif page.comments %}
 			{% include disqus.html %}
 			{% endif %}
 		</div>
