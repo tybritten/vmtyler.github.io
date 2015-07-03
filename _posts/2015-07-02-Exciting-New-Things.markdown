@@ -10,7 +10,7 @@ categories:
 ---
 Some of you may have noticed that as of Monday I no longer work for EMC. It was a hard decision to leave there after five years, mainly due to the great people I have been privileged to work with and for. While I look fondly back at my time there, I'm excited to tell you about my future.
 
-I've excited to join Jesse Proudman [(@blueboxjesse)](https://twitter.com/blueboxjesse) and the rest of the team at Blue Box!
+I'm excited to join Jesse Proudman [(@blueboxjesse)](https://twitter.com/blueboxjesse) and the rest of the team at Blue Box!
 ![Blue Box](/images/2015/07/bluebox-logo-social-sharing.png)
 
 I'm joining Blue Box as a Technical Marketing Manager, helping to tell the Blue Box story. Why am I so excited about this company and this role?
