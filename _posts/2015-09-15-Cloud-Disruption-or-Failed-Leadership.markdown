@@ -45,7 +45,7 @@ It's amazing to see IT and HR organizations that can't understand why they can't
 
 * They've been using offshoring, H-1B visas, and other cost saving measures that have suppressed their pay rates on common technologies and think that applies broadly
 * They only pay lip service to personal development and skimp on training and conference attendance budgets.
-* They've focused on process for process's sake (ITIL, etc.) that anyone they had that could have picked up this new technology quickly is long gone.
+* They've become so focused on process for process's sake (ITIL, etc.) that anyone they had that could have picked up this new technology quickly is long gone.
 
 And at the same time, a few of their similar sized competitors have had no trouble taking advantage of cloud computing, barely missing a beat. The organizations that are surviving and thriving have a common thread— their teams have discovered and learned these new technologies on their own, they weren't hired in.
 
