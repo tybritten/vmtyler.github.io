@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: 'APTs, iPhone Fingerprints Readers, and Complex Passwords: Why you should fire
+title: 'APTs, iPhone Fingerprint Readers, and Complex Passwords: Why you should fire
   your IT Security Team'
 author:
   display_name: VMTyler
