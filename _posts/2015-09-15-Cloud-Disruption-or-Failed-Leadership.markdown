@@ -33,7 +33,7 @@ Cloud computing marks the arrival of the age of distributed systems. It requires
 
 ### Skills Shortages are the True Source of the Disruption
 
-Ask any hiring manager working on distributed systems on either the development or infrastructure side and they'll tell you how few candidates there are will the skill sets they need. How did this happen?
+Ask any hiring manager working on distributed systems on either the development or infrastructure side and they'll tell you how few candidates there are with the skill sets they need. How did this happen?
 
 ### Years of Bad IT Leadership
 
