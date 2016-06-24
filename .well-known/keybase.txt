@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/tylerb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vmtyler.com
+  * I am tylerb (https://keybase.io/tylerb) on keybase.
+  * I have a public key with fingerprint 9B33 F064 0F40 E50B 8B22  ACE9 06E3 298C 4DCE 32B6
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01201abcb52471f57cbdf2ffb3cc1dd619a2fb1cd370e3e3568110b63958b82318650a",
+            "fingerprint": "9b33f0640f40e50b8b22ace906e3298c4dce32b6",
+            "host": "keybase.io",
+            "key_id": "06e3298c4dce32b6",
+            "kid": "0101be5dfe0ee7abf1aac1e52d79a3258ce3cf80dcc96d5a3f2ac420be8ffae881de0a",
+            "uid": "9aa46cdc5e658e9dcbaf3885ef0ab119",
+            "username": "tylerb"
+        },
+        "service": {
+            "hostname": "vmtyler.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1466796803,
+    "expire_in": 157680000,
+    "prev": "d436187625c686896a38a40cf3daa9ec4cf0e6a003bcdb2b1c6c144d5c86d54b",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNtAnicZVJtUFRVGIYlIAmBAZ2wpIYrWCgf93vvXZzFKdK0IUg0nDKX83XhBuwu
+uxeQgExBnNQCy02WQkcqQklzUDCbRGiywTCGZnH4CsfMGjJnLCbAkI/ukv7q/Dnn
+vO/zPO/zvud8u9jPJ8g34Je4A2m9bLtvT5eryCerYL9fGQVtuJQylVF5ZGEj+Zg4
+NUueiikTRTMszQCIoMDyRkYRjAhihVUUyCHEYCwyMmAVyCDMGWnCEU4QJYahocjJ
+ggQllmMkUaABFU8pqjWHOOwO1arpsjLkOIUWeVrhaSLQUIIsCxCRaZFwrCwhHiP9
+AEWdmGtzehm6OQicJFG16TH9YvnP3v/xD3zTDCQCVghNiBFAhQEAMURgsVEGHCtI
+Oh4pEo0RkkUsAE7R6/MsDYmkKIBIEoPJgu+iBTkZAF5EGAlEFCQiYwSBwkmSQBQa
+QIaRvUAncVhBAdHRWmk+cUCqIp7SY8UqIt6xevu4ny8uWEAkIluBTrQ7bJoN2fL1
+RK6m2Z0mL1ErtXuRJQRa7mtYoGrF+hB1RjFxOFWblTIxOhJpqleU4UXRKIsSzcVT
+ZIdddRCL6kUIRj2mL28dUqxLYp4TGckosgISJVGSRcBJgKeRwmEAZIJ4pNBEBDTN
+QYQhq7+tiBiexwKS9EHxkPJ2VWi16dq6qAZydE2nmmMFWpGDUBXfdG17yMc3yCfA
+3+D9XT5Bi8Ie/DmmMHR+i/nVmMGQhIyrWfzf1/ov3pkvT23fHZb7/KWOfV2e069s
+j3bR64fMAZ2Jw52PNM5d8zxXVTIXaAjM7vlu143a3viwU5q7aiI/PeM919EQc8nF
+C+mTX5mcTYc+aOP8N7ckzdQdMlaPZbz2xq32ZbeD4ZKiFSlxoNYvwVV5PGmkejZp
+bTY/+BZ/c91jHrM966XAoNmYwdcNqIstuHeiYKbZGmAd/rWlWY2LJfU+qmlXK7/h
+x5DygYbyY0AYvfvpbGfNkP+fI5PLjdX7xs/MPR7dFOpedH3lgZafqp4a7k4m1dNp
+ZfvPj/1liLiMq65Gc4fDL+3s989nRh9GfeHvnixe1vpsbMJ4qrtsddmGlKT3r+O6
+lBVLZkKp7siIGlNvw4289Rs/rGpqzDzy5ZZbLcmbMO4Mb7XzU7UB3y8+duXrrQc9
+qzqXu9vSJ2xS1J1M9+6D0eVP11uy374b01oZO7rnsyemtfG+Seuelo7Lq+dfDu3K
+29b7Ql32mvn+jo/rQqqCLXu+OPtJRaXYfGo8eWD6PN6ZvjcjK+9kJPmh+XfDRzel
+z9dVrLUcPvtPrMu0eWp7VLN6ZCh9VXXbmYg3U41TVzI3Dbr4E5E15wbKHr23MuLn
+vijUZwreOjjyzB/JF4aPbgxP6p6oG3nntxfTDOe024We4uTjS0cN5id3uKfM/o1y
+Q/3Y6Z6lGWvsnn8BMF/BNg==
+=pkbd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tylerb
+
+==================================================================
+
