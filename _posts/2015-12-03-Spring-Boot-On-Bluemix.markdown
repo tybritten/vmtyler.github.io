@@ -44,7 +44,7 @@ What if you would rather deploy your Spring Boot application on Cloud Foundry? L
 * Once it's done we have a JAR that we can deploy to Cloud Foundry. We'll use the '-p' flag to specify the JAR we just created.
 
 
-``` cf push tbspring -p target/spring-boot-sample-web-ui-1.3.1.BUILD-SNAPSHOT.jar -b https://github.com/cloudfoundry/java-buildpack.git
+``` cf push tbspring -p target/spring-boot-sample-web-ui-1.3.1.BUILD-SNAPSHOT.jar 
 ```
 
 In this case we didn't supply a buildpack so Cloud Foundry used the default java buildpack. For Bluemix, this is the Liberty for Java buildpack. What if we don't like that? What if we want to use the community java buildpack? It's just as easy as using the '-b' flag and supplying the url to the buildpack:
