@@ -31,7 +31,6 @@ harmony:
   # Profile links, leave blank to ignore
   social:
     github: tybritten
-    twitter: tybritten
   show_disclaimer: true
 
 # Conversion / Build settings
